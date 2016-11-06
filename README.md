@@ -46,7 +46,7 @@ if __name__ == '__main__':
 
 ### ローカルで実行する
 
-``bash
+```bash
 $ python hello.py
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
